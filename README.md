@@ -118,31 +118,3 @@
 * **Seminar:** Introducing smart contact lens technology and development of the contact lens-type holographic AR display, *The Korean Institute of Broadcast and Media Engineers : Autumn conference*, 2021.
 * **Seminar:** Development of time-division multiplexing technique of Maxwellian-view and holographic image for wide field of view holographic near-eye display, *Electronics and Telecommunications Research Institute*, 2019.
 * **Teaching:** Electro-Magnetics, Teaching Assistance, Winter Semester, 2014.
-
----
-
-## 💻 Super Fluent Skills & Portfolio
-
-### 1. Python and Matlab
-*Wave/Geometrical optics numerical simulation, Freeform HOE numerical analysis, System control software, Deep learning hologram generation, and etc.*
-
-<p float="left">
-  <img src="./image_freeform.jpg" width="30%" /> 
-  <img src="./image_hologram.jpg" width="30%" />
-  <img src="./image_cgh.jpg" width="30%" /> 
-</p>
-<p align="center">
-  <em>Freeform V-HOE analysis | Digital hologram generation & reconstruction | CGH simulator (GUI)</em>
-</p>
-
-### 2. Zemax, OpticStudio
-*Contact lens, Freeform lens, AR/VR optics, and etc.*
-
-<p float="left">
-  <img src="./zemax_contact.jpg" width="30%" />
-  <img src="./zemax_ar.jpg" width="30%" />
-  <img src="./zemax_camera.jpg" width="30%" />
-</p>
-<p align="center">
-  <em>Contact lens AR display design | Freeform AR glasses design | Wide angle camera design</em>
-</p>
