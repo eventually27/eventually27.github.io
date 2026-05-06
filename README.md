@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Jinsu Lee (Ph.D.)
 **Senior Researcher at Electronics and Telecommunications Research Institute (ETRI)**
 
