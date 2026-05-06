@@ -41,7 +41,7 @@
 
 ## 🤝 Professional Activities
 
-* **Chairperson** | Digital Holography and Information Optics Division, Optics and Photonics Congress (OPC)
+* **Chairperson** | Digital Holography and Information Optics Division, Optical Society of Korea (OPK)
 * **Program Chair** | 3D Systems and Applications (3DSA)
 
 ---
