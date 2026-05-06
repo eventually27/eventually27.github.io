@@ -38,6 +38,11 @@
   * *Research topic:* AR/VR near-eye display based on free-form optics and digital hologram
 
 ---
+## 🤝 Professional Activities
+
+* **Chairperson** | Digital Holography and Information Optics Division, Optics and Photonics Congress (OPC)
+* **Program Chair** | 3D Systems and Applications (3DSA)
+---
 
 ## 🔬 Research Project Experience (Recent 5y')
 
