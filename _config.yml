@@ -1,0 +1,11 @@
+# 테마 설정
+theme: jekyll-theme-minimal
+
+# 홈페이지 정보 (본인의 정보에 맞게 수정하세요)
+title: Jinsu Lee, Ph.D.
+description: Senior Researcher at ETRI | Wave Optics & Digital Holography Expert
+logo: /profile.jpg  # 저장소에 업로드한 프로필 사진 파일명
+
+# 하단 링크 설정 (선택 사항)
+google_scholar: https://scholar.google.com/citations?user=svwY1jEAAAAJ
+# github_username: 본인아이디  # 필요 시 추가
