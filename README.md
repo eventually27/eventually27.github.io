@@ -89,10 +89,6 @@
 8. "Simple volume expanding fabrication method for focal length controlled micro-lens array", Junoh Kim, Muyoung Lee, Cheoljoong Kim, Jinsu Lee, and Yonghyub Won, proceedings in *SPIE Photonics West OPTO*, San Francisco, USA, Feb 7, 2015.
 9. "Depth-enhanced integral imaging display system with time-multiplexed depth planes using a varifocal liquid lens array", proceedings in Cheoljoong Kim, Muyoung Lee, Junoh Kim, Jin Su Lee, and Yong Hyub Won, proceedings in *SPIE Photonics West OPTO*, San Francisco, USA, Feb 7, 2015.
 
-### Domestic Conferences
-1. “Optical signal measurement system for analyzing 3D diffraction efficiency of freeform surface volume hologram", Jung Hun Choo, Kwang Hoon Lee, and Jin Su Lee, *Optics and Photonics Congress*, 2021.
-2. “Contact lens-type projection holographic display”, Jin Su Lee, Kwang Hoon Lee, and Won Jong Ryu, *Optics and Photonics Congress*, 2021.
-
 ### Patents
 1. Contact Lens Type Projection Holographic Display Apparatus and System Capable of Securing Diffraction Efficiency, 10-2021-0132497, Korea
 2. Contact Lens Type Projection Holographic Display Apparatus and System, 10-2021-0132490, Korea
