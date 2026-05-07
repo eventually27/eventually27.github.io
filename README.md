@@ -24,15 +24,15 @@
 
 ## 💼 Career
 
-* **2022 - Present | Electronics and Telecommunications Research Institute (ETRI)**
+* **2022 - Present** | **Electronics and Telecommunications Research Institute (ETRI)**
   * **Senior Researcher** (Government funded research institute)
   * *On-going research topic 1:* AR/VR / Advanced 3D display optics
   * *On-going research topic 2:* Automotive Holographic Display
-* **2019 - 2023 | Korea Photonics Technology Institute (KOPTI)**
+* **2019 - 2023** | **Korea Photonics Technology Institute (KOPTI)**
   * **Senior Researcher** (Government funded research institute)
   * *Research topic 1:* Free-form optics design for AR/VR near-eye display
   * *Research topic 2:* Holographic contact lens AR display
-* **2019 | Korea Advanced Institute of Science and Technology (KAIST)**
+* **2019** | **Korea Advanced Institute of Science and Technology (KAIST)**
   * **Postdoctoral Researcher**
   * *Research topic:* AR/VR near-eye display based on free-form optics and digital hologram
 
@@ -54,7 +54,8 @@
 * Time-division multiplexing holographic optical element using a liquid lens for near-eye display (2018)
 * Focus varying liquid lens array based resolution enhanced high speed light field optical technology development (2016)
 * Development of Super-Multi View (SMV) Display Providing Real-Time Interaction Giga Korea project (2014~2018)
-* Microlens array panel for implementation of glassless 3D display, MSIP & IITP ICT R&D program (2014~2018)
+* Microlens array panel for implementation of glassless 3D display (2014~2018)
+  
 ---
 
 ## 📝 Papers, Patents, Awards
