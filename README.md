@@ -79,7 +79,7 @@
 8. "Novel concept electrowetting micro lens array based on passive matrix", *IEEE Photonics Technology Letters*, Vol.28, No. 2, January, 2016.
 
 ### International Conferences
-1. **"Automotive Holographic Head-Up Display."**, Lee, Jinsu, Keehoon Hong, and Minsik Park, *SIGGRAPH Asia 2024 Posters*. 2024. 1-2.
+1. "Automotive Holographic Head-Up Display.", Lee, Jinsu, Keehoon Hong, and Minsik Park, *SIGGRAPH Asia 2024 Posters*. 2024. 1-2.
 2. "Effects of liquid property and substrate roughness on the response time of an electrowetting liquid lens", Gyu Suk Jung, Jin Su Lee, and Yong Hyub Won, proceedings in *SPIE Photonics West OPTO*, San Francisco, USA, February, 2018.
 3. "Light field 3D endoscope based on electro-wetting lens array", Jin Su Lee, Gyu Suk Jung, and Yong Hyub Won, proceedings in *SPIE Photonics West BIO*, San Francisco, USA, February 28, 2017.
 4. "Pitch variable liquid lens array using electrowetting", Yoo Kwang Kim, Jin Su Lee, Junoh Kim, and Yong Hyub Won, proceedings in *SPIE Photonics West OPTO*, San Francisco, USA, February 20, 2017.
