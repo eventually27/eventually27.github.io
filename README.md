@@ -1,8 +1,6 @@
 # Jinsu Lee (Ph.D.)
 **Senior Researcher at Electronics and Telecommunications Research Institute (ETRI)**
 
-# <img src="./figure1.jpg" alt="Profile Image" width="200" />
-
 * **Email:** jslee27@etri.re.kr | eventually27@gmail.com
 * **Phone:** Office 042-860-6081 | Mobile 010-4859-3821
 * **Keywords:** Wave optics, Geometrical optics, Diffractive optics, Optical Signal Processing
