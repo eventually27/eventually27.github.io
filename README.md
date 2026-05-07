@@ -46,15 +46,15 @@
 ---
 
 ## 🔬 Research Project Experience
-* **Development of 40-inch-class adaptive light field display technology with a 120-degree field of view utilizing active optical elements and deep learning-based real-time light field content rendering** (2025~2029)
-* **Development of Holo-TV Core Technologies for Hologram Media Services** (2022~2029)
-* **Glasses-type thin AR optical module manufacturing technology and product development capable of injection production** (2021~2023)
-* **Development of holographic lithography equipment and printing technology for security and books** (2020~2023)
-* **Development of fundamental technology of core components for augmented and virtual reality devices** (2017~2020)
-* **Time-division multiplexing holographic optical element using a liquid lens for near-eye display** (2018)
-* **Focus varying liquid lens array based resolution enhanced high speed light field optical technology development** (2016)
-* **Development of Super-Multi View (SMV) Display Providing Real-Time Interaction**, Giga Korea project (2014~2018)
-* **Microlens array panel for implementation of glassless 3D display**, MSIP & IITP ICT R&D program (2014~2018)
+* Development of 40-inch-class adaptive light field display technology with a 120-degree field of view utilizing active optical elements and deep learning-based real-time light field content rendering (2025~2029)
+* Development of Holo-TV Core Technologies for Hologram Media Services (2022~2029)
+* Glasses-type thin AR optical module manufacturing technology and product development capable of injection production (2021~2023)
+* Development of holographic lithography equipment and printing technology for security and books (2020~2023)
+* Development of fundamental technology of core components for augmented and virtual reality devices (2017~2020)
+* Time-division multiplexing holographic optical element using a liquid lens for near-eye display (2018)
+* Focus varying liquid lens array based resolution enhanced high speed light field optical technology development (2016)
+* Development of Super-Multi View (SMV) Display Providing Real-Time Interaction Giga Korea project (2014~2018)
+* Microlens array panel for implementation of glassless 3D display, MSIP & IITP ICT R&D program (2014~2018)
 ---
 
 ## 📝 Papers, Patents, Awards
