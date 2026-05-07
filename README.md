@@ -46,25 +46,15 @@
 ---
 
 ## 🔬 Research Project Experience (Recent 5y')
-
-* **Glasses-type thin AR optical module manufacturing technology and product development capable of injection production** (JUL 2021 – DEC 2023)
-  * Development of the compact AR glasses based on freeform optics
-* **Development of holographic lithography equipment and printing technology for security and books** (JUN 2020 – DEC 2023)
-  * Development of the integrated CGH simulator
-  * Development of equipment of the measuring diffraction efficiency
-  * Development of the CGH simulation IOS app
-* **Development of fundamental technology of core components for augmented and virtual reality devices**, KAIST (AUG 2017 – DEC 2020)
-  * Development of light field near-eye display
-* **Time-division multiplexing holographic optical element using a liquid lens for near-eye display**, KAIST (MAY 2018 – DEC 2018)
-  * Development of holographic near-eye display using a switchable volume holographic optical element
-* **Focus varying liquid lens array based resolution enhanced high speed light field optical technology development**, KAIST (APR 2016 – DEC 2016)
-  * Development of low cost tunable liquid lens using 3D printer
-  * Development of light field endoscope based on tunable liquid lens
-* **Development of Super-Multi View (SMV) Display Providing Real-Time Interaction**, Giga Korea project (JUL 2014 – APR 2018)
-  * Development of wide field of view and high resolution near-eye display based on hologram
-* **Microlens array panel for implementation of glassless 3D display**, MSIP & IITP ICT R&D program (FEB 2014 – FEB 2018)
-  * Depth enhancement of light field display by using tunable liquid lens
-
+* **Development of 40-inch-class adaptive light field display technology with a 120-degree field of view utilizing active optical elements and deep learning-based real-time light field content rendering** (2025~2029)
+* **Development of Holo-TV Core Technologies for Hologram Media Services** (2022~2029)
+* **Glasses-type thin AR optical module manufacturing technology and product development capable of injection production** (2021~2023)
+* **Development of holographic lithography equipment and printing technology for security and books** (2020~2023)
+* **Development of fundamental technology of core components for augmented and virtual reality devices** (2017~2020)
+* **Time-division multiplexing holographic optical element using a liquid lens for near-eye display** (2018)
+* **Focus varying liquid lens array based resolution enhanced high speed light field optical technology development** (2016)
+* **Development of Super-Multi View (SMV) Display Providing Real-Time Interaction**, Giga Korea project (2014~2018)
+* **Microlens array panel for implementation of glassless 3D display**, MSIP & IITP ICT R&D program (2014~2018)
 ---
 
 ## 📝 Papers, Patents, Awards
