@@ -70,15 +70,13 @@
 
 ### SCI Papers
 1. "Contact lens holographic projection display based on curved volume‐holographic optical element.", Lee, Jin Su, *ETRI Journal* 47.3 (2025): 518-526.
-2. "Digital hologram video quality assessment based on cylindrical measuring system", *Optics Express*, in peer-review, 2021.
-3. "Contact lens-type holographic AR display", *Optics Express*, in peer-review, 2021.
-4. “Histogram compensation algorithm for an efficient phase-only hologram calculation”, *Optics Express*, Vol. 28, Issue 26, pp. 40164-40175, December, 2020.
-5. "Study of non-periodic pinhole array filter to decrease high-order noise for compact holographic display”, *Applied Science*, Vol. 20, Issue 23, pp. 8671, December, 2020.
-6. ”Low-noise high-efficiency double-phase hologram by multiplying a weight factor”, *Optics Letters*, Vol. 44, pp. 3649-3652, July 2019.
-7. "See-through display combined with holographic display and Maxwellian display using switchable holographic optical element based on liquid lens", *Optics Express*, Vol. 26, Issue 15, pp. 19341-19355, July, 2018.
-8. "Enhanced see-through near-eye display using time-division multiplexing of a Maxwellian-view and holographic display.", *Optics Express*, Vol. 27, Issue 2, pp. 689-701, January, 2018.
-9. "Time multiplexing technique of holographic view and Maxwellian view using a liquid lens in the optical see-through head mounted display", *Optics Express*, Vol. 26, Issue 2, pp. 2149-2159, January, 2018.
-10. "Novel concept electrowetting micro lens array based on passive matrix", *IEEE Photonics Technology Letters*, Vol.28, No. 2, January, 2016.
+2. “Histogram compensation algorithm for an efficient phase-only hologram calculation”, *Optics Express*, Vol. 28, Issue 26, pp. 40164-40175, December, 2020.
+3. "Study of non-periodic pinhole array filter to decrease high-order noise for compact holographic display”, *Applied Science*, Vol. 20, Issue 23, pp. 8671, December, 2020.
+4. ”Low-noise high-efficiency double-phase hologram by multiplying a weight factor”, *Optics Letters*, Vol. 44, pp. 3649-3652, July 2019.
+5. "See-through display combined with holographic display and Maxwellian display using switchable holographic optical element based on liquid lens", *Optics Express*, Vol. 26, Issue 15, pp. 19341-19355, July, 2018.
+6. "Enhanced see-through near-eye display using time-division multiplexing of a Maxwellian-view and holographic display.", *Optics Express*, Vol. 27, Issue 2, pp. 689-701, January, 2018.
+7. "Time multiplexing technique of holographic view and Maxwellian view using a liquid lens in the optical see-through head mounted display", *Optics Express*, Vol. 26, Issue 2, pp. 2149-2159, January, 2018.
+8. "Novel concept electrowetting micro lens array based on passive matrix", *IEEE Photonics Technology Letters*, Vol.28, No. 2, January, 2016.
 
 ### International Conferences
 1. **"Automotive Holographic Head-Up Display."**, Lee, Jinsu, Keehoon Hong, and Minsik Park, *SIGGRAPH Asia 2024 Posters*. 2024. 1-2.
