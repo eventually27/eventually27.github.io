@@ -42,7 +42,7 @@
 
 * **Chairperson** | Digital Holography and Information Optics Division, Optical Society of Korea (OSK)
 * **Program Chair** | 3D Systems and Applications (3DSA)
-
+* **A member of the Standardization Committee** |  IEC TC110 WG12(EWD), WG6(3D)  
 ---
 
 ## 🔬 Research Project Experience
