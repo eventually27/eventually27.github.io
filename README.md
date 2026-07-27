@@ -46,8 +46,8 @@
 ---
 
 ## 🔬 Research Project Experience
-* Development of 40-inch-class adaptive light field display technology with a 120-degree field of view utilizing active optical elements and deep learning-based real-time light field content rendering (2025~2029)
-* Development of Holo-TV Core Technologies for Hologram Media Services (2022~2029)
+* **Development of 40-inch-class adaptive light field display technology with a 120-degree field of view utilizing active optical elements and deep learning-based real-time light field content rendering (2025~2029)**
+* **Development of Holo-TV Core Technologies for Hologram Media Services (2022~2029)**
 * Glasses-type thin AR optical module manufacturing technology and product development capable of injection production (2021~2023)
 * Development of holographic lithography equipment and printing technology for security and books (2020~2023)
 * Development of fundamental technology of core components for augmented and virtual reality devices (2017~2020)
