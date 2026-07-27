@@ -17,7 +17,7 @@
 * **2012 - 2014** | **Korea University**
   * Master’s Degree in Electrical Engineering
   * *Dissertation:* A study of analysis of optical characteristics on parallax barrier 3D display
-* **2008 - 2012** | **Korea University**
+* **2008 - 2012** | **Korea University(sejong)**
   * Bachelor’s Degree in Electro-Mechanical Systems Engineering
 
 ---
@@ -40,7 +40,7 @@
 
 ## 🤝 Professional Activities
 
-* **Chairperson** | Digital Holography and Information Optics Division, Optics and Photonics Congress (OPC)
+* **Chairperson** | Digital Holography and Information Optics Division, Optical Society of Korea (OPK)
 * **Program Chair** | 3D Systems and Applications (3DSA)
 
 ---
