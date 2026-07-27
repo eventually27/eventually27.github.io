@@ -5,7 +5,7 @@
 * **Email:** jslee27@etri.re.kr | eventually27@gmail.com
 * **Phone:** Office 042-860-6081 | Mobile 010-4859-3821
 * **Keywords:** Wave optics, Geometrical optics, Diffractive optics, Optical Signal Processing
-* **Professional area:** AR/VR optics, Digital hologram optics, Free-form optics, Contact lens optics
+* **Professional area:** AR/VR/XR optics, Digital hologram optics, Free-form optics, Contact lens optics
 
 ---
 
