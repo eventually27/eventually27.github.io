@@ -11,7 +11,7 @@
 
 ## 🎓 Education
 
-* **2014 - 2019** | **Korea Advanced Institute of Science and Technology (KAIST)**
+* **2014 - 2019** | **KAIST**
   * Ph.D. in Electrical Engineering
   * *Dissertation:* Development of time-division multiplexing of holographic display and Maxwellian-view display for high resolution and wide field of view holographic near-eye display
 * **2012 - 2014** | **Korea University**
